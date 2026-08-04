@@ -12,14 +12,19 @@ A planilha está organizada em uma aba principal contendo a sistematização dos
 
 * **Artigo:** Identificação da publicação (autores e ano).
 * **Objetivo do Estudo:** O propósito central da pesquisa primária analisada.
-* **Contexto Educacional e Participantes:** Nível de ensino (ex: Superior, Básico, K-12) e perfil/tamanho da amostra estudada.
-* **Aplicação / Função do Chatbot:** O papel pedagógico assumido pelo agente conversacional (ex: tutor socrático, assistente de tarefas, simulador de cenários).
-* **Detalhes da Tecnologia do Chatbot:** Modelos de Linguagem de Larga Escala (LLMs) utilizados (ex: família GPT, BERT) e arquiteturas associadas (ex: RAG, engenharia de prompts).
-* **Delineamento da Avaliação:** A metodologia empírica ou exploratória conduzida no estudo primário.
-* **Métricas de Avaliação Utilizadas:** Os instrumentos e variáveis aferidos (ex: escalas TAM, SUS, testes empíricos, análise de logs).
-* **Resultados e Evidências Empíricas:** Síntese dos principais impactos no desempenho, engajamento e aprendizado.
-* **Limitações do Estudo (Apontadas pelos Autores):** Principais barreiras metodológicas ou técnicas reconhecidas (ex: risco de alucinação, custos de API, viés de amostra).
+* **Contexto Educacional e Participantes:** Nível de ensino (por exemplo, Ensino Superior, Educação Básica/K-12 ou contexto extracurricular/misto), disciplina e perfil/tamanho da amostra.
+* **Aplicação / Função do Chatbot:** Papel pedagógico assumido pelo agente conversacional, como tutor inteligente, assistente de tarefas, simulador de cenários, mediador de colaboração, ferramenta de avaliação ou outros usos pedagógicos.
+* **Detalhes da Tecnologia do Chatbot:** Modelo(s) de linguagem e/ou arquitetura associados, como GPT-4, GPT-3.5-Turbo, GPT-4o, RAG, LangChain, LlamaIndex, Weaviate, chain-of-thought, few-shot learning e engenharia de prompts.
+* **Delineamento da Avaliação:** A metodologia empírica, exploratória ou mista empregada no estudo primário.
+* **Métricas de Avaliação Utilizadas:** Os instrumentos e variáveis aferidos, como TAM, SUS, UTAUT2, escalas Likert, testes pré/pós, entrevistas, análise de logs e codificação qualitativa.
+* **Resultados e Evidências Empíricas:** Síntese dos principais impactos sobre desempenho, engajamento, motivação, aprendizagem e experiência do usuário.
+* **Limitações do Estudo (Apontadas pelos Autores):** Principais barreiras metodológicas ou técnicas reconhecidas pelos autores, como amostras pequenas, viés de seleção, custos de API, ausência de longitudinalidade e risco de alucinação.
 * **Sugestões para Trabalhos Futuros:** Recomendações dos autores primários para o avanço das investigações na área.
+
+## Observação importante
+
+Alguns estudos possuem classificação contextual mais específica do que “Ensino Superior” ou “Educação Básica”, incluindo casos extracurriculares e contextos mistos. A planilha foi revisada para refletir essa categorização de forma mais precisa.
+
 
 ## Contato e Reprodutibilidade
 
